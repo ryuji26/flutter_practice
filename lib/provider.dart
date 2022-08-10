@@ -1,5 +1,3 @@
-import 'dart:ffi';
-
 import 'package:flutter_practice/Data/count_data.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
